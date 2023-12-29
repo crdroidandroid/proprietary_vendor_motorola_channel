@@ -734,7 +734,6 @@ PRODUCT_PACKAGES += \
     CneApp \
     TimeService \
     QtiTelephonyService \
-    datastatusnotification \
     MotCamera2 \
     ims \
     qcrilmsgtunnel \
