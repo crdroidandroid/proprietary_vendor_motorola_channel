@@ -5,7 +5,6 @@
 soong_namespace {
 }
 
-
 android_app_import {
 	name: "MotorolaSettingsProvider",
 	owner: "motorola",
@@ -17,3 +16,4 @@ android_app_import {
 	privileged: true,
 	product_specific: true,
 }
+
