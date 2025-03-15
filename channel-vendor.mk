@@ -191,5 +191,6 @@ PRODUCT_PACKAGES += \
     capi_v2_smartAmp_TAS25xx.so \
     tas2560_TI_0 \
     tas2560_TI_1 \
+    MotCamera2 \
     charge_only_mode \
     android.hardware.biometrics.fingerprint@2.1-fpcservice
